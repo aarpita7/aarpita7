@@ -1,5 +1,5 @@
 👋 Hi, I’m **Arpita Mahapatra**!!
-- 🎓 **Education**: I’m currently pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University (LPU), with a specialization in Artificial Intelligence (AI) and Data Engineering.
+- 🎓 **Education**: I’m currently pursuing a B.Tech in Computer Science and Engineering at Lovely Professional University (LPU), with a specialization in Artificial Intelligence (AI) and Data Engineering .
 - 💻 Skills
 - I have a strong foundation in:
   - 🌐 **Web Technologies**: HTML, CSS, JavaScript
