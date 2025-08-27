@@ -47,7 +47,7 @@ I’m currently pursuing a B.Tech in Computer Science and Engineering, with a fo
   <a href="https://www.linkedin.com/in/arpita-mahapatra" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40"/>
   </a>
-  <a href="https://github.com/arpita-mahapatra" target="_blank">
+  <a href="https://github.com/aarpita7" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/inaraartemis" target="_blank">
